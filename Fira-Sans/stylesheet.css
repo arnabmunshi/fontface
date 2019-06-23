@@ -1,55 +1,55 @@
 @font-face {
   font-family: 'Fira Sans';
-  src: local("Fira Sans Light"), url(../../../fonts/fira/woff2/FiraSans-Light.woff2?af42317) format("woff2"), url(../../../fonts/fira/woff/FiraSans-Light.woff?2943078) format("woff"), url(../../../fonts/fira/otf/FiraSans-Light.otf?a35b04a) format("opentype");
+  src: local("Fira Sans Light"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Light.woff2) format("woff2"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Light.woff) format("woff"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Light.otf) format("opentype");
   font-weight: 300;
   font-style: normal
 }
 
 @font-face {
   font-family: 'Fira Sans';
-  src: local("Fira Sans Light Italic"), url(../../../fonts/fira/woff2/FiraSans-LightItalic.woff2?58bf650) format("woff2"), url(../../../fonts/fira/woff/FiraSans-LightItalic.woff?860c08c) format("woff"), url(../../../fonts/fira/otf/FiraSans-LightItalic.otf?3e38026) format("opentype");
+  src: local("Fira Sans Light Italic"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-LightItalic.woff2) format("woff2"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-LightItalic.woff) format("woff"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-LightItalic.otf) format("opentype");
   font-weight: 300;
   font-style: italic
 }
 
 @font-face {
   font-family: 'Fira Sans';
-  src: local("Fira Sans"), local("Fira Sans Regular"), url(../../../fonts/fira/woff2/FiraSans-Regular.woff2?979a139) format("woff2"), url(../../../fonts/fira/woff/FiraSans-Regular.woff?200d5e7) format("woff"), url(../../../fonts/fira/otf/FiraSans-Regular.otf?e798886) format("opentype");
+  src: local("Fira Sans"), local("Fira Sans Regular"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Regular.woff2) format("woff2"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Regular.woff) format("woff"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Regular.otf) format("opentype");
   font-weight: 400;
   font-style: normal
 }
 
 @font-face {
   font-family: 'Fira Sans';
-  src: local("Fira Sans Regular Italic"), url(../../../fonts/fira/woff2/FiraSans-Italic.woff2?6d9f3eb) format("woff2"), url(../../../fonts/fira/woff/FiraSans-Italic.woff?9a74216) format("woff"), url(../../../fonts/fira/otf/FiraSans-Italic.otf?9ae15b2) format("opentype");
+  src: local("Fira Sans Regular Italic"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Italic.woff2) format("woff2"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Italic.woff) format("woff"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Italic.otf) format("opentype");
   font-weight: 400;
   font-style: italic
 }
 
 @font-face {
   font-family: 'Fira Sans';
-  src: local("Fira Sans Medium"), url(../../../fonts/fira/woff2/FiraSans-Medium.woff2?0eff19a) format("woff2"), url(../../../fonts/fira/woff/FiraSans-Medium.woff?181fa5a) format("woff"), url(../../../fonts/fira/otf/FiraSans-Medium.otf?825e437) format("opentype");
+  src: local("Fira Sans Medium"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Medium.woff2) format("woff2"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Medium.woff) format("woff"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Medium.otf) format("opentype");
   font-weight: 500;
   font-style: normal
 }
 
 @font-face {
   font-family: 'Fira Sans';
-  src: local("Fira Sans Medium Italic"), url(../../../fonts/fira/woff2/FiraSans-MediumItalic.woff2?a4b5655) format("woff2"), url(../../../fonts/fira/woff/FiraSans-MediumItalic.woff?965651e) format("woff"), url(../../../fonts/fira/otf/FiraSans-MediumItalic.otf?718bac9) format("opentype");
+  src: local("Fira Sans Medium Italic"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-MediumItalic.woff2) format("woff2"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-MediumItalic.woff) format("woff"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-MediumItalic.otf) format("opentype");
   font-weight: 500;
   font-style: italic
 }
 
 @font-face {
   font-family: 'Fira Sans';
-  src: local("Fira Sans Bold"), url(../../../fonts/fira/woff2/FiraSans-Bold.woff2?a1ea7f3) format("woff2"), url(../../../fonts/fira/woff/FiraSans-Bold.woff?bf0aaa9) format("woff"), url(../../../fonts/fira/otf/FiraSans-Bold.otf?6b7b274) format("opentype");
+  src: local("Fira Sans Bold"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Bold.woff2) format("woff2"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Bold.woff) format("woff"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-Bold.otf) format("opentype");
   font-weight: 600;
   font-style: normal
 }
 
 @font-face {
   font-family: 'Fira Sans';
-  src: local("Fira Sans Bold Italic"), url(../../../fonts/fira/woff2/FiraSans-BoldItalic.woff2?2b8fee7) format("woff2"), url(../../../fonts/fira/woff/FiraSans-BoldItalic.woff?215cae1) format("woff"), url(../../../fonts/fira/otf/FiraSans-BoldItalic.otf?ff1a4e8) format("opentype");
+  src: local("Fira Sans Bold Italic"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-BoldItalic.woff2) format("woff2"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-BoldItalic.woff) format("woff"), url(https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/FiraSans-BoldItalic.otf) format("opentype");
   font-weight: 600;
   font-style: italic
 }
