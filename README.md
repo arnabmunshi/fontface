@@ -8,3 +8,6 @@
 
 ## GoogleSans
 ![GoogleSans](https://raw.githubusercontent.com/arnabmunshi/fontface/master/GoogleSans/screen-shot.png)
+
+## Fira-Sans
+![Fira-Sans](https://raw.githubusercontent.com/arnabmunshi/fontface/master/Fira-Sans/screen-shot.png)
