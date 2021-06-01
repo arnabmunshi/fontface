@@ -1,0 +1,34 @@
+body {
+  background-color: #0d1117;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.container-box {
+  margin: 0 auto;
+  padding: 40px 56px;
+}
+.hero-heading {
+  color: #c9d1d9;
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #484f58;
+  letter-spacing: -0.022em;
+  font-family: "SF Pro Text";
+}
+.text {
+  font-family: "SF Pro Text";
+  color: #c9d1d9;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: -0.011em;
+  display: block;
+  margin-bottom: 1rem;
+}
+.text-a {
+  color: #9c90e8;
+}
