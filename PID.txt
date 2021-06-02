@@ -1,0 +1,3 @@
+netstat -aon | findstr 3066
+tasklist | findstr '[PID]'
+taskkill /F /PID '[PID]'
